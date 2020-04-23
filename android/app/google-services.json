@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "108316227724",
+    "firebase_url": "https://final-project-3fd4f.firebaseio.com",
+    "project_id": "final-project-3fd4f",
+    "storage_bucket": "final-project-3fd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108316227724:android:55fedd042b59f8fca563a9",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108316227724-ukfg7pue89gaff2b5i3v81n0eh9r0qrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "7232ca654fbd04a882315e7c2485fa9c2d6e3577"
+          }
+        },
+        {
+          "client_id": "108316227724-6m510lbfvm1k6lp2ffajdsoh2fkcrr3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "f2242b804a3cbc73b993600cb0938735801879bc"
+          }
+        },
+        {
+          "client_id": "108316227724-dkpceig4bgnq0cll29b9jo7ad9d0qoon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "03972ddb508b9bd82637b7289b7e0ce6175c5bf5"
+          }
+        },
+        {
+          "client_id": "108316227724-f8ctjipejb0eoei9ac2geuknim45nmdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wO2zRwMxQztNN-D7iFf7tGFc8cz4TAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108316227724-f8ctjipejb0eoei9ac2geuknim45nmdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108316227724:android:94d527b69a8c08a2a563a9",
+        "android_client_info": {
+          "package_name": "com.hemloworld.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108316227724-up3bsm36mn9noa8mepn1ksqnb39neo7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hemloworld.final_project",
+            "certificate_hash": "f2242b804a3cbc73b993600cb0938735801879bc"
+          }
+        },
+        {
+          "client_id": "108316227724-be1e0lbst3e56j6mdmd525ragl6sn5oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hemloworld.final_project",
+            "certificate_hash": "03972ddb508b9bd82637b7289b7e0ce6175c5bf5"
+          }
+        },
+        {
+          "client_id": "108316227724-6qvn0tvgs7hst07uavcr9gdjec48c7mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hemloworld.final_project",
+            "certificate_hash": "7232ca654fbd04a882315e7c2485fa9c2d6e3577"
+          }
+        },
+        {
+          "client_id": "108316227724-f8ctjipejb0eoei9ac2geuknim45nmdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wO2zRwMxQztNN-D7iFf7tGFc8cz4TAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108316227724-f8ctjipejb0eoei9ac2geuknim45nmdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
